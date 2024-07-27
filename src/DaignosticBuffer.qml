@@ -220,9 +220,7 @@ Item {
 
                 // battmoredetails2.opacity=0
                 // battmoredetails1.opacity=1
-                battmoredetails1.text = "the battery charge percentage is lower than the specific
-efficient value
-you need to shut the car down and recharge it";
+                battmoredetails1.text = "the battery charge percentage is lower than the specific efficient value you need to shut the car down and recharge it";
             } else if (battnum == 2 || battnum == 3) {
                 batttimeDet1.text = Qt.formatDateTime(new Date(), "hh:mm:ss");
                 battdateDet1.text = Qt.formatDateTime(new Date(), "dd MMMM");
@@ -232,9 +230,7 @@ you need to shut the car down and recharge it";
                 background1.height = 80;
 
                 // battmoredetails2.opacity=1
-                battmoredetails2.text = "the battery charge percentage is lower than the specific
-efficient value
-you need to shut the car down and recharge it";
+                battmoredetails2.text = "the battery charge percentage is lower than the specific efficient value you need to shut the car down and recharge it";
                 // battmoredetails1.opacity=0
             }
         }
@@ -256,8 +252,8 @@ you need to shut the car down and recharge it";
                 battdot.opacity = 1;
                 background1.height = 50;
                 battmoredetails1.text = "the battery temperature is lower than the specific allowed
-efficient limit and this will affect on car performance!
-PLEASE check the nearest dealer to fix the problem";
+                                         efficient limit and this will affect on car performance!
+                                         PLEASE check the nearest dealer to fix the problem";
                 // battmoredetails2.opacity=0
 
             } else if (battnum == 2 || battnum == 3) {
@@ -268,8 +264,8 @@ PLEASE check the nearest dealer to fix the problem";
                 battdot.opacity = 1;
                 background1.height = 80;
                 battmoredetails2.text = "the battery temperature is lower than the specific allowed
-efficient limit and,this will affect on car performance!
-PLEASE check the nearest dealer to fix the problem";
+                                         efficient limit and,this will affect on car performance!
+                                         PLEASE check the nearest dealer to fix the problem";
                 //battmoredetails1.opacity=0
 
             }
@@ -292,8 +288,8 @@ PLEASE check the nearest dealer to fix the problem";
                 battdot.opacity = 1;
                 background1.height = 50;
                 battmoredetails1.text = "the battery temperature is heigher than the specific allowed
-efficient limit and this will affect on car performance!
-PLEASE shut down the car to rest the battery";
+                                         efficient limit and this will affect on car performance!
+                                         PLEASE shut down the car to rest the battery";
                 // battmoredetails2.opacity=0
             } else if (battnum == 2 || battnum == 3) {
                 batttimeDet1.text = Qt.formatDateTime(new Date(), "hh:mm:ss");
@@ -303,8 +299,8 @@ PLEASE shut down the car to rest the battery";
                 battdot.opacity = 1;
                 background1.height = 80;
                 battmoredetails2.text = "the battery temperature is heigher than the specifc allowed
-efficient limit and this will affect on car performance!
-PLEASE shut down the car to rest the battery";
+                                         efficient limit and this will affect on car performance!
+                                         PLEASE shut down the car to rest the battery";
                 // battmoredetails1.opacity=0
             }
         }
@@ -326,9 +322,9 @@ PLEASE shut down the car to rest the battery";
                 setdot.opacity = 1;
                 background.height = 50;
                 settmoredetails1.text = "car lights start to dim due to electrical fault as the
-elecreical system is malfunctioning due to low system
-voltage, loose wires or dying battery
-check the nearset dealer to check the car";
+                                         elecreical system is malfunctioning due to low system
+                                         voltage, loose wires or dying battery
+                                         check the nearset dealer to check the car";
             } else if (flags == 2) {
                 setttimeDet1.text = Qt.formatDateTime(new Date(), "hh:mm:ss");
                 settdateDet1.text = Qt.formatDateTime(new Date(), "dd MMMM");
@@ -337,9 +333,9 @@ check the nearset dealer to check the car";
                 setdot.opacity = 1;
                 background.height = 80;
                 settmoredetails2.text = "car lights start to dim due to electrical fault as the
-    elecreical system is malfunctioning due to low system
-    voltage, loose wires or dying battery
-    check the nearset dealer to check the car";
+                                         elecreical system is malfunctioning due to low system
+                                         voltage, loose wires or dying battery
+                                         check the nearset dealer to check the car";
             } else if (flags == 3) {
                 setttimeDet2.text = Qt.formatDateTime(new Date(), "hh:mm:ss");
                 settdateDet2.text = Qt.formatDateTime(new Date(), "dd MMMM");
@@ -348,9 +344,9 @@ check the nearset dealer to check the car";
                 setdot.opacity = 1;
                 background.height = 100;
                 settmoredetails3.text = "car lights start to dim due to electrical fault as the
-    elecreical system is malfunctioning due to low system
-    voltage, loose wires or dying battery
-    check the nearset dealer to check the car";
+                                         elecreical system is malfunctioning due to low system
+                                         voltage, loose wires or dying battery
+                                         check the nearset dealer to check the car";
             } else if (flags == 4) {
                 setttimeDet3.text = Qt.formatDateTime(new Date(), "hh:mm:ss");
                 settdateDet3.text = Qt.formatDateTime(new Date(), "dd MMMM");
@@ -359,9 +355,9 @@ check the nearset dealer to check the car";
                 setdot.opacity = 1;
                 background.height = 130;
                 settmoredetails3.text = "car lights start to dim due to electrical fault as the
-    elecreical system is malfunctioning due to low system
-    voltage, loose wires or dying battery
-    check the nearset dealer to check the car";
+                                         elecreical system is malfunctioning due to low system
+                                         voltage, loose wires or dying battery
+                                         check the nearset dealer to check the car";
             }
         }
     }

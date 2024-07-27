@@ -98,11 +98,11 @@ Item {
             ctx.fillRect(canvasX, canvasY, batteryChart.rate / 10, canvasbottom);
             ctx.stroke();
 
-            //ctx.rect(canvasX, canvasY, 1,canvasY);
-            //ctx.moveTo(canvasX,canvasbottom);
+            // ctx.rect(canvasX, canvasY, 1,canvasY);
+            // ctx.moveTo(canvasX,canvasbottom);
             // ctx.lineTo(canvasX,canvasbottom);
             // ctx.clip()
-            //ctx.shadowColor = "#2ed5fa";
+            // ctx.shadowColor = "#2ed5fa";
             // ctx.shadowOffsetX = 0;
             // ctx.shadowOffsetY = 5;
             // ctx.shadowBlur = 0.005;

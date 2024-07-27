@@ -37,41 +37,41 @@ Item {
     property int yErorr: 0
 
     //-----------------buttons_for_test--------------
-    //     RowLayout{
-    //         id:lay1
-    //         spacing: 2
-    //         Button{
-    //             width: 20
-    //             height: 20
-    //             text: "P"
-    //             onClicked: smallPage =!smallPage
-    //         }
-    //         Button{
-    //             width:10
-    //             height: 20
-    //             text: "<"
-    //             onClicked: turnLeft =!turnLeft
-    //         }
-    //         Button{
-    //             width: 20
-    //             height: 20
-    //             text: ">"
-    //             onClicked: turnRight =!turnRight
-    //         }
-
-    //         Button{
-    //             width: 10
-    //             height: 20
-    //             text: "belt"
-    //             onClicked: seatBelt =!seatBelt
-    //         }
-    //         Button{
-    //             width: 20
-    //             height: 20
-    //             text: "charge"
-    //             onClicked: lowPower =!lowPower
-    //         }
+    // RowLayout{
+    //     id:lay1
+    //     spacing: 2
+    //     Button{
+    //         width: 20
+    //         height: 20
+    //         text: "P"
+    //         onClicked: smallPage =!smallPage
     //     }
+    //     Button{
+    //         width:10
+    //         height: 20
+    //         text: "<"
+    //         onClicked: turnLeft =!turnLeft
+    //     }
+    //     Button{
+    //         width: 20
+    //         height: 20
+    //         text: ">"
+    //         onClicked: turnRight =!turnRight
+    //     }
+
+    //     Button{
+    //         width: 10
+    //         height: 20
+    //         text: "belt"
+    //         onClicked: seatBelt =!seatBelt
+    //     }
+    //     Button{
+    //         width: 20
+    //         height: 20
+    //         text: "charge"
+    //         onClicked: lowPower =!lowPower
+    //     }
+    // }
 
     //-------------------------------------
 

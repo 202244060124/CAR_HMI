@@ -37,15 +37,15 @@ Item {
         y: parent.height / 2 - 250
     }
 
-    //    Text{
-    //        id:gaugeText   //gaugeName
-    //        anchors.top: parent.bottom
-    //        anchors.horizontalCenter: parent.horizontalCenter
-    //        text: root.gaugeName
-    //        font.bold: true
-    //        font.pixelSize: 20
-    //        color: "#1551d4"
-    //    }
+    //  Text{
+    //      id:gaugeText   //gaugeName
+    //      anchors.top: parent.bottom
+    //      anchors.horizontalCenter: parent.horizontalCenter
+    //      text: root.gaugeName
+    //      font.bold: true
+    //      font.pixelSize: 20
+    //      color: "#1551d4"
+    //  }
 
     Canvas {
         id: canvas

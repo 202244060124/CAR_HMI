@@ -104,36 +104,36 @@ Item {
 
         source: "AldotheApache.ttf"
     }
-    //      Button{
-    //          id:doors
-    //          height: 50
-    //          width: 50
-    //          text: "DOOR"
-    //          x:100
-    //          y:50
-    //          onClicked: carpage.door = !carpage.door
+    // Button{
+    // id:doors
+    // height: 50
+    // width: 50
+    // text: "DOOR"
+    // x:100
+    // y:50
+    // onClicked: carpage.door = !carpage.door
 
-    //      }
-    //      Button{
-    //          id:fLight
-    //          height: 50
-    //          width: 50
-    //          text: "Flight"
-    //          x:100
-    //          y:110
-    //          onClicked: frontlight = !frontlight
+    // }
+    // Button{
+    // id:fLight
+    // height: 50
+    // width: 50
+    // text: "Flight"
+    // x:100
+    // y:110
+    // onClicked: frontlight = !frontlight
 
-    //        }
-    //      Button{
-    //          id:bLight
-    //          height: 50
-    //          width: 50
-    //          text: "Blight"
-    //          x:100
-    //          y:170
-    //          onClicked: backlight = !backlight
+    // }
+    // Button{
+    // id:bLight
+    // height: 50
+    // width: 50
+    // text: "Blight"
+    // x:100
+    // y:170
+    // onClicked: backlight = !backlight
 
-    //      }
+    // }
 
     Text {
         id: textt
