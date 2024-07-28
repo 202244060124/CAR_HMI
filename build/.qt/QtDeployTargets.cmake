@@ -1,0 +1,3 @@
+set(__QT_DEPLOY_TARGET_CarHmi_FILE G:/SoftwareDevelopment/OpenSource/CAR_HMI/build/CarHmi.exe)
+set(__QT_DEPLOY_TARGET_CarHmi_TYPE EXECUTABLE)
+set(__QT_DEPLOY_TARGET_CarHmi_RUNTIME_DLLS D:/SoftwareInstallations/Qt/6.7.2/mingw_64/bin/Qt6Quick.dll;D:/SoftwareInstallations/Qt/6.7.2/mingw_64/bin/Qt6Widgets.dll;D:/SoftwareInstallations/Qt/6.7.2/mingw_64/bin/Qt6QmlModels.dll;D:/SoftwareInstallations/Qt/6.7.2/mingw_64/bin/Qt6Qml.dll;D:/SoftwareInstallations/Qt/6.7.2/mingw_64/bin/Qt6Network.dll;D:/SoftwareInstallations/Qt/6.7.2/mingw_64/bin/Qt6OpenGL.dll;D:/SoftwareInstallations/Qt/6.7.2/mingw_64/bin/Qt6Gui.dll;D:/SoftwareInstallations/Qt/6.7.2/mingw_64/bin/Qt6Core.dll)

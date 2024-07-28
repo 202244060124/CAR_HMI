@@ -1,0 +1,3 @@
+G:/SoftwareDevelopment/OpenSource/CAR_HMI/src/../output/bin/CarHmi.exe
+G:/SoftwareDevelopment/OpenSource/CAR_HMI/src/../output/src/main.cpp
+G:/SoftwareDevelopment/OpenSource/CAR_HMI/src/../output/src/qml.qrc
